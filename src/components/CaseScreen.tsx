@@ -7,6 +7,7 @@ import confetti from 'canvas-confetti';
 import { motion } from 'motion/react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { Logo } from './Logo';
 
 type Result = {
   correct: boolean;
@@ -97,9 +98,9 @@ export function CaseScreen({ c, allIds }: { c: PublicCase; allIds: string[] }) {
         style={{ background: t.surface, color: t.ink }}
       >
         <SportSurface sport={c.sport} />
-        <span className="relative font-[family-name:var(--font-cond)] text-[34px] font-extrabold leading-none">
-          Courtside
-        </span>
+        <Link href="/" className="relative self-start">
+          <Logo size={40} mark={t.ink} cutout={t.surface} text={t.ink} />
+        </Link>
         <div className="relative flex flex-col gap-5">
           <span
             className="inline-flex min-h-[34px] items-center self-start rounded-md px-3.5 font-[family-name:var(--font-cond)] text-xl font-bold"

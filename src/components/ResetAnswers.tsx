@@ -1,5 +1,6 @@
 'use client';
 
+import { ANSWERS_CHANGED } from '@/lib/answers';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
 
@@ -19,6 +20,7 @@ export function ResetAnswers() {
     } catch {}
     setConfirming(false);
     setDone(true);
+    window.dispatchEvent(new Event(ANSWERS_CHANGED));
     router.refresh();
   }
 

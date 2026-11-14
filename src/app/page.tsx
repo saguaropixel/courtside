@@ -1,3 +1,6 @@
+import { AnswerBadge } from '@/components/AnswerBadge';
+import { AnswerSummary } from '@/components/AnswerSummary';
+import { Logo } from '@/components/Logo';
 import { ResetAnswers } from '@/components/ResetAnswers';
 import { SportSurface, themes } from '@/components/SportSurface';
 import { getAllCases, getTodaysCase } from '@/lib/cases';
@@ -33,6 +36,7 @@ async function TodaysRuling() {
           Make the call
         </span>
       </div>
+      <AnswerBadge id={c.id} />
     </Link>
   );
 }
@@ -43,10 +47,11 @@ export default function Home() {
   return (
     <main className="mx-auto flex max-w-6xl flex-col gap-14 px-6 pb-20 pt-7 sm:px-10">
       <header className="flex items-center justify-between">
-        <span className="font-[family-name:var(--font-cond)] text-[34px] font-extrabold leading-none text-[#FFB224]">
-          Courtside
-        </span>
+        <Link href="/" className="relative self-start">
+          <Logo />
+        </Link>
       </header>
+      <AnswerSummary ids={cases.map((c) => c.id)} />
 
       <section className="flex max-w-3xl flex-col gap-5">
         <h1 className="text-balance font-[family-name:var(--font-cond)] text-7xl font-extrabold leading-[0.9] sm:text-9xl">
@@ -79,6 +84,7 @@ export default function Home() {
                   style={{ background: t.surface, color: t.ink }}
                 >
                   <SportSurface sport={c.sport} />
+                  <AnswerBadge id={c.id} />
                   <span
                     className="relative inline-flex min-h-[30px] items-center self-start rounded-md px-3 font-[family-name:var(--font-cond)] text-lg font-bold"
                     style={{ background: t.chipBg, color: t.chipFg ?? ACCENT }}
