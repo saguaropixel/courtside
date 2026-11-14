@@ -1,0 +1,17 @@
+{
+  "id": "tuck-rule-2002",
+  "sport": "football",
+  "year": 2002,
+  "title": "The Tuck Rule",
+  "setup": "January 19, 2002, an AFC divisional playoff game in the snow. The Patriots have the ball at the Raiders' 42-yard line with 1:50 left, trailing 13-10. Tom Brady pump-fakes, tucks the ball back toward his body, and Raiders cornerback Charles Woodson knocks it loose. Linebacker Greg Biekert recovers it, and everyone on the field treats it as a fumble. Referee Walt Coleman heads to the replay monitor.",
+  "question": "What does Coleman rule?",
+  "options": [
+    "Fumble. Raiders ball.",
+    "Incomplete pass. Patriots keep the ball.",
+    "The down is replayed."
+  ],
+  "answer": 1,
+  "ruling": "Coleman reversed the call: \"The quarterback's arm was coming forward.\" The Patriots kept the ball, Adam Vinatieri kicked a 43-yard field goal to tie the game, and another in overtime to win it.",
+  "rulebookNote": "Rule 3, Section 21, Article 2: any intentional forward movement of the thrower's arm starts a forward pass, even if the ball is lost while tucking it back.",
+  "source": "https://www.si.com/nfl/2016/10/05/tom-brady-biggest-moments-tuck-rule"
+}

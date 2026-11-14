@@ -1,0 +1,17 @@
+{
+  "id": "olympic-final-1972",
+  "sport": "basketball",
+  "year": 1972,
+  "title": "Three Seconds, Three Tries",
+  "setup": "The 1972 Olympic gold medal game, USSR against USA. With three seconds left, Doug Collins hits two free throws to put the U.S. up 50-49. The Soviets inbound, and assistant coach Sergei Bashkin rushes the scorer's table insisting they called timeout. They are allowed to inbound again, but nobody resets the clock to three seconds. The pass goes astray, the Americans celebrate, and the officials order another restart because of the clock error. Alexander Belov scores the winning layup.",
+  "question": "The U.S. appeals. What does FIBA's jury of appeals decide?",
+  "options": [
+    "The appeal is upheld and the U.S. is awarded gold.",
+    "The appeal is rejected and the Soviet win stands, 51-50.",
+    "The final three seconds are replayed again."
+  ],
+  "answer": 1,
+  "ruling": "The jury rejected the American appeal and the Soviet Union kept the gold, 51-50. The U.S. team voted unanimously to refuse its silver medals.",
+  "rulebookNote": "The ending turned on disputes over a timeout and a game clock that was not reset.",
+  "source": "https://www.history.com/.amp/news/epic-sports-upsets-olympics-united-states-soviet-union"
+}

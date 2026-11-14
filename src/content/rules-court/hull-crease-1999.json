@@ -1,0 +1,17 @@
+{
+  "id": "hull-crease-1999",
+  "sport": "hockey",
+  "year": 1999,
+  "title": "The Skate in the Crease",
+  "setup": "Game 6 of the 1999 Stanley Cup Final, Dallas against Buffalo, deep in triple overtime. Brett Hull fires a rebound past goaltender Dominik Hasek. Replays show his skate was in the goal crease when he shot.",
+  "question": "Does the goal count?",
+  "options": [
+    "No goal. A skate in the crease cancels it.",
+    "Goal. A skate in the crease was allowed when the shooter had control of the puck.",
+    "The league decides in a vote after the game."
+  ],
+  "answer": 1,
+  "ruling": "The goal counted. Earlier that season the NHL had circulated a clarification to teams saying a skate could be in the crease if the player was in control of the puck.",
+  "rulebookNote": "Many fans never saw the clarification, which is why the goal stayed controversial.",
+  "source": "https://thehockeynews.com/news/article/most-memorable-moment-of-brett-hulls-career-still-tainted-for-some"
+}

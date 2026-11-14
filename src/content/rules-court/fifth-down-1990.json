@@ -1,0 +1,17 @@
+{
+  "id": "fifth-down-1990",
+  "sport": "football",
+  "year": 1990,
+  "title": "The Fifth Down",
+  "setup": "Colorado trails Missouri 31-27 and is driving as time runs down. During a timeout, the chain crew fails to update the down marker, and the officials lose count. Colorado gets a fifth straight down, and backup quarterback Charles Johnson runs one yard for a touchdown as time expires. The officials confer for nearly 20 minutes before letting it count. Missouri's chancellor appeals to the conference to award Missouri a 31-27 win.",
+  "question": "What does the Big Eight commissioner decide?",
+  "options": [
+    "Colorado's touchdown stands.",
+    "Missouri is awarded the win, 31-27.",
+    "The game is replayed."
+  ],
+  "answer": 0,
+  "ruling": "Commissioner Carl James rejected Missouri's appeal. Colorado's 33-31 win stood, and the officiating crew was suspended for one week.",
+  "rulebookNote": "The commissioner called the extra down \"not a post-game correctable error.\"",
+  "source": "https://en.wikipedia.org/wiki/Fifth_Down_Game_(1990)"
+}

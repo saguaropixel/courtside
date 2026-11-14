@@ -1,69 +1,100 @@
-import Image from "next/image";
+import { ResetAnswers } from '@/components/ResetAnswers';
+import { SportSurface, themes } from '@/components/SportSurface';
+import { getAllCases, getTodaysCase } from '@/lib/cases';
+import Link from 'next/link';
+import { connection } from 'next/server';
+import { Suspense } from 'react';
+
+const ACCENT = '#FFB224';
+
+async function TodaysRuling() {
+  await connection(); // "today" is worked out per request
+  const c = getTodaysCase();
+  const t = themes[c.sport];
+  return (
+    <Link
+      href={`/rules-court/${c.id}`}
+      className="relative flex min-h-[420px] flex-col justify-between gap-12 overflow-hidden rounded-3xl p-8 sm:p-10"
+      style={{ background: t.surface, color: t.ink }}
+    >
+      <SportSurface sport={c.sport} />
+      <span className="relative text-lg font-medium">Today's ruling</span>
+      <div className="relative flex flex-col gap-5">
+        <span
+          className="inline-flex min-h-[34px] items-center self-start rounded-md px-3.5 font-[family-name:var(--font-cond)] text-xl font-bold"
+          style={{ background: t.chipBg, color: t.chipFg ?? ACCENT }}
+        >
+          {t.label} · {c.year}
+        </span>
+        <h2 className="text-balance font-[family-name:var(--font-cond)] text-6xl font-extrabold leading-[0.92] sm:text-8xl">
+          {c.title}
+        </h2>
+        <span className="inline-flex h-14 items-center self-start rounded-xl bg-[#15110E] px-8 font-[family-name:var(--font-cond)] text-2xl font-extrabold text-[#FFB224]">
+          Make the call
+        </span>
+      </div>
+    </Link>
+  );
+}
 
 export default function Home() {
+  const cases = getAllCases();
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <main className="mx-auto flex max-w-6xl flex-col gap-14 px-6 pb-20 pt-7 sm:px-10">
+      <header className="flex items-center justify-between">
+        <span className="font-[family-name:var(--font-cond)] text-[34px] font-extrabold leading-none text-[#FFB224]">
+          Courtside
+        </span>
+      </header>
+
+      <section className="flex max-w-3xl flex-col gap-5">
+        <h1 className="text-balance font-[family-name:var(--font-cond)] text-7xl font-extrabold leading-[0.9] sm:text-9xl">
+          Make the call.
+        </h1>
+        <p className="max-w-[52ch] text-pretty text-xl leading-relaxed text-[#E3D8C9]">
+          Every case is a real moment where the ruling was in doubt. Pick what
+          you think the officials decided, then see what actually happened.
+        </p>
+      </section>
+
+      <Suspense
+        fallback={<div className="min-h-[420px] rounded-3xl bg-[#1F1915]" />}
+      >
+        <TodaysRuling />
+      </Suspense>
+
+      <section className="flex flex-col gap-6">
+        <h2 className="font-[family-name:var(--font-cond)] text-4xl font-bold">
+          All rulings
+        </h2>
+        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {cases.map((c) => {
+            const t = themes[c.sport];
+            return (
+              <li key={c.id}>
+                <Link
+                  href={`/rules-court/${c.id}`}
+                  className="relative flex min-h-[220px] flex-col justify-end gap-3 overflow-hidden rounded-2xl p-6"
+                  style={{ background: t.surface, color: t.ink }}
+                >
+                  <SportSurface sport={c.sport} />
+                  <span
+                    className="relative inline-flex min-h-[30px] items-center self-start rounded-md px-3 font-[family-name:var(--font-cond)] text-lg font-bold"
+                    style={{ background: t.chipBg, color: t.chipFg ?? ACCENT }}
+                  >
+                    {t.label} · {c.year}
+                  </span>
+                  <h3 className="relative text-balance font-[family-name:var(--font-cond)] text-4xl font-extrabold leading-[0.95]">
+                    {c.title}
+                  </h3>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+      <ResetAnswers />
+    </main>
   );
 }

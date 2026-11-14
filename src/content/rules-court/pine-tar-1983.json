@@ -1,0 +1,17 @@
+{
+  "id": "pine-tar-1983",
+  "sport": "baseball",
+  "year": 1983,
+  "title": "The Home Run That Wasn't",
+  "setup": "Top of the ninth at Yankee Stadium. Two outs, the Yankees lead by one, and George Brett launches a two-run homer off Goose Gossage to put the Royals ahead. Then Yankees manager Billy Martin asks the umpires to measure the pine tar on Brett's bat. It reaches too far up the handle. The umpires call Brett out, and the game ends.",
+  "question": "The Royals protest. What does the league president decide?",
+  "options": [
+    "The out stands. Yankees win.",
+    "The home run counts. The game resumes later.",
+    "The game is thrown out and replayed from the start."
+  ],
+  "answer": 1,
+  "ruling": "Four days later, American League president Lee MacPhail overturned the umpires' ruling and restored the home run. The game resumed on August 18, 1983, with two outs in the top of the ninth and the Royals ahead 5-4, and Kansas City won 5-4.",
+  "rulebookNote": "Rule 1.10(c) limits pine tar to 18 inches of the bat. The umpires measured about 24 and ruled Brett out under Rule 6.06. MacPhail judged that the rule's purpose is to limit ball discoloration, and that Brett had not violated it or altered the bat to gain distance.",
+  "source": "https://en.wikipedia.org/wiki/Pine_Tar_Incident"
+}
