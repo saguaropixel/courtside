@@ -1,0 +1,17 @@
+{
+  "id": "suarez-handball-2010",
+  "sport": "soccer",
+  "year": 2010,
+  "title": "The Goal-Line Save",
+  "setup": "2010 World Cup quarter-final, Uruguay against Ghana, 1-1 after extra time. In the 120th minute Ghana has a free kick on the right. Adiyah's header is heading for goal and Luis Suárez stops it on the line with both hands.",
+  "question": "What does referee Olegario Benquerença award?",
+  "options": [
+    "A goal for Ghana.",
+    "A free kick to Ghana and a yellow card for Suárez.",
+    "A penalty to Ghana and a red card for Suárez."
+  ],
+  "answer": 2,
+  "ruling": "Benquerença showed Suárez a red card and awarded a penalty. Asamoah Gyan's spot kick hit the crossbar, and Uruguay won the penalty shootout to advance.",
+  "rulebookNote": "The source describes the handball as deliberate. The round is not named in the source; its status as a quarter-final comes from the source's note that the winner would reach the semifinals.",
+  "source": "https://www.si.com/soccer/2020/05/06/luis-suarez-handball-uruguay-ghana-2010-world-cup"
+}

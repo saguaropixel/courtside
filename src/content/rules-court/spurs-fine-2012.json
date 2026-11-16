@@ -1,0 +1,17 @@
+{
+  "id": "spurs-fine-2012",
+  "sport": "basketball",
+  "year": 2012,
+  "title": "Resting the Stars",
+  "setup": "November 29, 2012. The Spurs are in Miami to play the Heat on the last stop of a road trip. Coach Gregg Popovich sends Tim Duncan, Manu Ginobili, Tony Parker and Danny Green home before the game.",
+  "question": "What does commissioner David Stern do?",
+  "options": [
+    "Nothing. Who plays is the coach's call.",
+    "He fines the Spurs $250,000.",
+    "He suspends Popovich for a game."
+  ],
+  "answer": 1,
+  "ruling": "Stern fined the Spurs $250,000. He said, \"The result here is dictated by the totality of the facts in this case,\" and added, \"Under these circumstances, I have concluded that the Spurs did a disservice to the league and our fans.\"",
+  "rulebookNote": "The NBA said the Spurs broke a league policy against resting players in a way that is \"contrary to the best interests of the NBA.\"",
+  "source": "https://www.si.com/nba/2012/11/30/gregg-popovich-david-stern-spurs-fined-nba"
+}

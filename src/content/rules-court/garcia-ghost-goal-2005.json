@@ -1,0 +1,17 @@
+{
+  "id": "garcia-ghost-goal-2005",
+  "sport": "soccer",
+  "year": 2005,
+  "title": "The Ghost Goal",
+  "setup": "May 3, 2005, Champions League semi-final second leg at Anfield. The first leg ended 0-0. Steven Gerrard plays a ball to Milan Baros, who gets past John Terry and pokes it over Petr Cech, who flattens him. Luis Garcia forces the ball goalward and runs off to celebrate. William Gallas appears to clear it off the line.",
+  "question": "What does referee Lubos Michel decide?",
+  "options": [
+    "Goal.",
+    "No goal, because Gallas cleared it before the line.",
+    "No goal, and a free kick for the foul on Cech."
+  ],
+  "answer": 0,
+  "ruling": "Michel allowed the goal. Liverpool won 1-0, and that goal sent them through to the final. The source says it looked close at the time and that replays allow \"relative confidence\" that the ball did not cross the line, while Garcia maintains it did.",
+  "rulebookNote": "The source cites no rule. Under the general rule, a goal counts only when the whole ball crosses the line.",
+  "source": "https://www.90min.com/posts/anatomy-of-a-ghost-goal-luis-garcia-sends-liverpool-to-istanbul"
+}

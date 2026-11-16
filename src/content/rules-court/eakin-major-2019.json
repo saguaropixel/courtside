@@ -1,0 +1,17 @@
+{
+  "id": "eakin-major-2019",
+  "sport": "hockey",
+  "year": 2019,
+  "title": "Game 7, Midway Through the Third",
+  "setup": "Game 7 of the 2019 first round, Golden Knights against the Sharks. Vegas leads 3-0 midway through the third period. The officials call a penalty on Vegas's Cody Eakin for cross-checking.",
+  "question": "What penalty do the officials assess?",
+  "options": [
+    "A two-minute minor on Eakin.",
+    "A five-minute major and a game misconduct on Eakin.",
+    "A penalty shot for San Jose."
+  ],
+  "answer": 1,
+  "ruling": "The officials gave Eakin a five-minute major for cross-checking plus a game misconduct. The Sharks scored four power-play goals and won 5-4 in overtime. According to Vegas GM George McPhee, the league reached out and apologized to the Golden Knights afterward.",
+  "rulebookNote": "The source states the penalty length (five minutes) and the apology, as reported by McPhee. It does not say whether the call could be reviewed.",
+  "source": "https://www.upi.com/Sports_News/NHL/2019/04/25/NHL-apologizes-to-Vegas-Golden-Knights-for-major-penalty-call-in-Game-7/9361556220410/?sl=1"
+}

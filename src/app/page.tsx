@@ -2,6 +2,7 @@ import { AnswerBadge } from '@/components/AnswerBadge';
 import { AnswerSummary } from '@/components/AnswerSummary';
 import { Logo } from '@/components/Logo';
 import { ResetAnswers } from '@/components/ResetAnswers';
+import { RulingsBrowser } from '@/components/RulingsBrowser';
 import { SportSurface, themes } from '@/components/SportSurface';
 import { getAllCases, getTodaysCase } from '@/lib/cases';
 import Link from 'next/link';
@@ -70,10 +71,15 @@ export default function Home() {
       </Suspense>
 
       <section className="flex flex-col gap-6">
-        <h2 className="font-[family-name:var(--font-cond)] text-4xl font-bold">
-          All rulings
-        </h2>
-        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <RulingsBrowser
+          items={cases.map(({ id, sport, year, title }) => ({
+            id,
+            sport,
+            year,
+            title,
+          }))}
+        />
+        {/* <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {cases.map((c) => {
             const t = themes[c.sport];
             return (
@@ -98,7 +104,7 @@ export default function Home() {
               </li>
             );
           })}
-        </ul>
+        </ul> */}
       </section>
       <ResetAnswers />
     </main>

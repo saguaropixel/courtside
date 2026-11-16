@@ -1,0 +1,17 @@
+{
+  "id": "fail-mary-2012",
+  "sport": "football",
+  "year": 2012,
+  "title": "The Simultaneous Catch",
+  "setup": "September 24, 2012, Monday Night Football in Seattle, with replacement officials working the game. With eight seconds left, the Seahawks face fourth-and-10, and Seattle needs a touchdown. Russell Wilson heaves a Hail Mary into the end zone, where Golden Tate and Packers safety M.D. Jennings both get their hands on the ball. One official signals touchdown while another waves his arms to stop the clock, and the play goes to replay review.",
+  "question": "What stands after review?",
+  "options": [
+    "Interception. The Packers win.",
+    "Offensive pass interference on Tate. The Seahawks lose the down.",
+    "Touchdown, under the simultaneous catch rule."
+  ],
+  "answer": 2,
+  "ruling": "Referee Wayne Elliott found no clear evidence to overturn the call, so the touchdown stood. Under the simultaneous catch rule the ball belonged to the passing team. Seattle won 14-12. The NFL later said offensive pass interference should have been called on Tate, which would have given Green Bay the win, but it still supported the touchdown under the simultaneous catch rule. Two days later the NFL and its referees' union agreed to end the lockout.",
+  "rulebookNote": "The simultaneous catch rule gives possession to the offense when offense and defense catch the ball at the same time.",
+  "source": "https://en.wikipedia.org/wiki/Fail_Mary"
+}

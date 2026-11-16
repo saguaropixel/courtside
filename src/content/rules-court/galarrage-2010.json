@@ -1,0 +1,17 @@
+{
+  "id": "galarraga-2010",
+  "sport": "baseball",
+  "year": 2010,
+  "title": "One Out From Perfect",
+  "setup": "June 2, 2010. Detroit's Armando Galarraga is one out from a perfect game against Cleveland. Jason Donald hits the ball toward first, and first-base umpire Jim Joyce calls him safe. Joyce later admits he got the call wrong, and he apologizes to Galarraga and hugs him after the game.",
+  "question": "What does Commissioner Bud Selig do about the call?",
+  "options": [
+    "Reverses it and credits Galarraga with a perfect game.",
+    "Leaves the call in place.",
+    "Orders the final out replayed."
+  ],
+  "answer": 1,
+  "ruling": "Selig would not reverse the call. He said MLB would look at expanded video replay and umpiring. Detroit won 3-0.",
+  "rulebookNote": "Detroit's general manager, Dave Dombrowski, said the team would not ask MLB to overturn the call.",
+  "source": "https://www.si.com/mlb/2010/06/03/selig-joyce"
+}

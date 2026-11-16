@@ -1,0 +1,17 @@
+{
+  "id": "lampard-ghost-goal-2010",
+  "sport": "soccer",
+  "year": 2010,
+  "title": "The Ghost Goal",
+  "setup": "June 27, 2010, a World Cup round-of-16 match in Bloemfontein. Germany leads England 2-1 after Matthew Upson pulled one back. Frank Lampard's shot hits the underside of the crossbar and bounces down. Television replays show it landing a yard behind the goal line. The referee waves play on.",
+  "question": "Does the goal count?",
+  "options": [
+    "Yes. The goal counts and it is 2-2.",
+    "No. Play continues.",
+    "The referee checks a video replay first."
+  ],
+  "answer": 1,
+  "ruling": "No goal. The referee's decision stood and play went on. Germany won 4-1.",
+  "rulebookNote": "FIFA's president, Sepp Blatter, apologized afterward and reopened the goal-line technology debate. The technology was used at the 2014 World Cup.",
+  "source": "https://www.si.com/soccer/2014/06/26/ap-soc-wcup-day-june-27"
+}

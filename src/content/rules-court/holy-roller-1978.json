@@ -1,0 +1,17 @@
+{
+  "id": "holy-roller-1978",
+  "sport": "football",
+  "year": 1978,
+  "title": "Ten Seconds, Fourteen Yards",
+  "setup": "September 10, 1978, in San Diego. Oakland trails the Chargers 20-14 with 10 seconds left, with the ball at the San Diego 14. Quarterback Ken Stabler is about to be sacked and loses the ball forward. Running back Pete Banaszak loses his footing going for it and pitches it forward with both hands. Tight end Dave Casper bats and kicks it into the end zone and falls on it as time expires.",
+  "question": "What does referee Jerry Markbreit rule?",
+  "options": [
+    "An illegal forward pass. San Diego wins 20-14.",
+    "The play is a fumble and the batting is legal. It is a touchdown.",
+    "Illegal batting. Oakland gets one more play from the spot."
+  ],
+  "answer": 1,
+  "ruling": "Markbreit ruled Stabler's play a fumble, not a forward pass, and the officials ruled the batting by Banaszak and Casper legal. The NFL supported the call. Errol Mann's extra point made it 21-20. The source says Stabler later said he had intentionally thrown the ball forward, and that Casper and Banaszak admitted they deliberately batted it forward.",
+  "rulebookNote": "The NFL changed its rules after the 1978 season: after the two-minute warning, or on fourth down, only the player who fumbled can recover and advance the ball.",
+  "source": "https://en.wikipedia.org/wiki/Holy_Roller_(American_football)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "webber-timeout-1993",
+  "sport": "basketball",
+  "year": 1993,
+  "title": "The Timeout Michigan Didn't Have",
+  "setup": "The 1993 national championship game in New Orleans. With 11 seconds left, Michigan trails North Carolina 72-71. Chris Webber signals for a timeout. Michigan has none left. Its last one was called with 46 seconds to go, and the coaches had reminded the team it had none remaining.",
+  "question": "What do the officials call?",
+  "options": [
+    "Michigan gets the timeout anyway.",
+    "A technical foul on Michigan, and Carolina shoots two free throws.",
+    "The play is ruled a jump ball."
+  ],
+  "answer": 1,
+  "ruling": "The officials called a technical foul on Webber. Donald Williams made both technical free throws, and Carolina added two more after Michigan fouled on the next possession. North Carolina won 77-71.",
+  "rulebookNote": "Michigan's last timeout had already been used, so the request drew a technical foul.",
+  "source": "https://vault.si.com/vault/1993/04/12/technical-knockout-when-chris-webber-called-a-timeout-his-team-didnt-have-michigan-was-hit-with-a-technical-foul-that-clinched-the-national-title-for-north-carolina"
+}

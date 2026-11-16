@@ -1,0 +1,17 @@
+{
+  "id": "armbrister-1975",
+  "sport": "baseball",
+  "year": 1975,
+  "title": "The Bunt Collision",
+  "setup": "October 14, 1975. Game 3 of the World Series, tied 5-5 in the 10th inning. Reds pinch hitter Ed Armbrister tries to bunt, and the ball bounces in front of the plate. Red Sox catcher Carlton Fisk moves to field it and collides with Armbrister. Fisk's throw sails into center field, and the Reds advance.",
+  "question": "What does home plate umpire Larry Barnett rule?",
+  "options": [
+    "No interference. Play stands as it happened.",
+    "Obstruction on Fisk. The runners get the bases.",
+    "Interference on Armbrister. He is out and the runners go back."
+  ],
+  "answer": 0,
+  "ruling": "Barnett ruled there was no interference. Cesar Geronimo ended up on third and scored the winning run on a Joe Morgan single. The Reds won 6-5 in 10 innings and took a 2-1 series lead. The Red Sox protested heatedly.",
+  "rulebookNote": "The source cites no rule for the call. It describes Barnett's ruling as no interference and Boston's protest as heated.",
+  "source": "https://thisdayinbaseball.com/bostons-carlton-fisk-and-cincinnatis-ed-armbrister-become-involved-in-a-controversial-interference-non-call"
+}

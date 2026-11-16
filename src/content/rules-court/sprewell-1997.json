@@ -1,0 +1,17 @@
+{
+  "id": "sprewell-1997",
+  "sport": "basketball",
+  "year": 1997,
+  "title": "A Practice Gone Wrong",
+  "setup": "December 1, 1997. At a Warriors practice, coach P.J. Carlesimo tells Latrell Sprewell to put \"a little mustard\" on a pass. They argue, and Sprewell grabs Carlesimo by the neck and chokes him until teammates and officials pull him away. He returns within 20 minutes and throws a punch before he is restrained again. The Warriors end his contract.",
+  "question": "On December 4, what does the NBA do?",
+  "options": [
+    "Suspends him for 10 games",
+    "Suspends him for one year",
+    "Fines him and lets him sign elsewhere right away"
+  ],
+  "answer": 1,
+  "ruling": "The NBA suspended Sprewell for one year, the longest suspension the league had handed out up to that point. After Sprewell went to arbitration, the suspension was reduced to 68 games, which still cost him about $6 million in wages.",
+  "rulebookNote": "The source does not give the date of the arbitration decision, only that it came later.",
+  "source": "https://www.history.com/this-day-in-history/nba-suspends-latrell-sprewell-for-attacking-coach"
+}

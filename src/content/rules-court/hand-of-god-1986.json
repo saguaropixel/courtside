@@ -1,0 +1,17 @@
+{
+  "id": "hand-of-god-1986",
+  "sport": "soccer",
+  "year": 1986,
+  "title": "The Hand of God",
+  "setup": "The 1986 World Cup quarter-final at the Azteca in Mexico, England against Argentina, with the game still scoreless. Diego Maradona and England goalkeeper Peter Shilton go up for a high ball inside the box, and it ends up in the net. Referee Ali Bin Nasser is on the edge of the box with no direct view, because players are blocking it. His assistant has a clear one. Replays show Maradona got there with his hand, and England's players protest.",
+  "question": "What does the referee decide?",
+  "options": [
+    "No goal. Handball, free kick to England.",
+    "The goal stands.",
+    "He asks the assistant, who overrules him."
+  ],
+  "answer": 1,
+  "ruling": "Bin Nasser allowed the goal. The assistant gave no signal, and Bin Nasser said he could not reverse the decision after England protested. Argentina won 2-1.",
+  "rulebookNote": "Bin Nasser said he had doubts at once, but before the tournament FIFA had told officials to trust an assistant in a better position, so he felt obliged to award the goal.",
+  "source": "https://www.fourfourtwo.com/news/referee-ali-bin-nasser-recalls-maradonas-hand-of-god-goal-applying-fifas-instructions-i-was-obliged-to-give-the-goal"
+}

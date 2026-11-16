@@ -1,0 +1,17 @@
+{
+  "id": "gretzky-high-stick-1993",
+  "sport": "hockey",
+  "year": 1993,
+  "title": "The Stick That Drew Blood",
+  "setup": "Game 6 of the 1993 Western Conference final, Kings against the Maple Leafs, and it has gone to overtime. Wayne Gretzky's stick strikes Toronto's Doug Gilmour in the face. Gilmour doubles over with blood on his chin. Referee Kerry Fraser was watching the puck.",
+  "question": "What does Fraser call?",
+  "options": [
+    "A five-minute major on Gretzky.",
+    "No penalty.",
+    "A double minor on Gretzky."
+  ],
+  "answer": 1,
+  "ruling": "Fraser did not call a penalty. He later said he was watching the puck and didn't see the stick contact clearly. Gretzky scored on the next faceoff and the Kings won 5-4.",
+  "rulebookNote": "Under 1993 rules, a high stick that drew blood would have meant a five-minute major. In a 2016 Players' Tribune essay Fraser wrote, \"I was uncertain but I thought I had it right,\" and that if he could turn back time, he would catch the high stick. The source's account of the series result is inconsistent, so it is left out here.",
+  "source": "https://www.si.com/nhl/2016/06/08/ex-nhl-referee-kerry-fraser-apology-blown-call-1993-playoffs-maple-leafs-kings-wayne-gretzky-high-stick-players-tribune"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "maier-1996",
+  "sport": "baseball",
+  "year": 1996,
+  "title": "Reach Over the Wall",
+  "setup": "Game 1 of the 1996 ALCS. Bottom of the eighth, and the Yankees trail the Orioles 4-3. Derek Jeter lifts a deep fly ball to right field. Orioles right fielder Tony Tarasco sets up at the wall, and a fan in the stands reaches over and touches the ball.",
+  "question": "What does right-field umpire Rich Garcia rule?",
+  "options": [
+    "Fan interference. Jeter is out and the Orioles keep the lead.",
+    "Ground-rule double. Jeter stops at second.",
+    "Home run. The game is tied 4-4."
+  ],
+  "answer": 2,
+  "ruling": "Garcia ruled it a home run, tying the game 4-4. Tarasco and manager Davey Johnson protested that a fan had touched the ball, and Johnson was ejected. American League president Gene Budig denied the Orioles' protest. The Yankees won in the 11th on a Bernie Williams home run and took the series 4-1.",
+  "rulebookNote": "The source says the protest was denied because judgment calls cannot be protested.",
+  "source": "https://en.wikipedia.org/wiki/Jeffrey_Maier_incident"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "music-city-2000",
+  "sport": "football",
+  "year": 2000,
+  "title": "A Lateral Across the Field",
+  "setup": "January 8, 2000, AFC wild-card game in Nashville. Tennessee needs a touchdown with 3 seconds left. On a short kickoff, Frank Wycheck takes a handoff from Lorenzo Neal and throws across the field to Kevin Dyson, who runs 75 yards down the left sideline for a touchdown. The Bills argue the throw went forward.",
+  "question": "What does referee Phil Luckett rule after review?",
+  "options": [
+    "Illegal forward pass. No touchdown.",
+    "Legal lateral. The touchdown stands.",
+    "The review is inconclusive and the play is replayed."
+  ],
+  "answer": 1,
+  "ruling": "Luckett announced that the cross-field throw was legal and not a forward pass. He said the ball left the passer's hand at the Tennessee 25 and the receiver caught it at that spot, so it did not appear to be a forward pass and no foul was called. The Titans won 22-16.",
+  "rulebookNote": "The source says the line judge's initial ruling was that the pass was not a forward pass, and the call was confirmed after a video review.",
+  "source": "https://www.ksl.com/article/46648865/nfl-at-100-ap-was-there-music-city-miracle"
+}

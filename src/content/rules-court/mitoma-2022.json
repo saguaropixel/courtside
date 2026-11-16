@@ -1,0 +1,17 @@
+{
+  "id": "mitoma-2022",
+  "sport": "soccer",
+  "year": 2022,
+  "title": "A Millimetre Over the Line",
+  "setup": "December 1, 2022, World Cup group stage, Japan against Spain. In the 51st minute Kaoru Mitoma chases a ball near the goal line and cuts it back, and Ao Tanaka scores. The on-field decision is that the ball had gone out of play, so there is no goal. VAR checks the goal-line camera.",
+  "question": "What does the VAR review decide?",
+  "options": [
+    "The goal stands.",
+    "The ball was out. No goal.",
+    "The play is restarted with a drop ball."
+  ],
+  "answer": 0,
+  "ruling": "VAR official Fernando Guerrero overturned the on-field decision because the goal-line camera showed part of the ball still over the line. The goal stood, Japan won 2-1, and the goal eliminated Germany from the tournament.",
+  "rulebookNote": "For VAR to overturn the call, there must be definitive evidence that part of the ball is on the line. Even a very small overhang counts, not just the ball touching the ground.",
+  "source": "https://global.espn.com/football/story/_/id/37634475/why-japans-winning-goal-vs-spain-was-awarded-var"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "obstruction-2013",
+  "sport": "baseball",
+  "year": 2013,
+  "title": "Tripped at Third",
+  "setup": "Game 3 of the 2013 World Series, tied 4-4 in the bottom of the ninth. St. Louis has the winning run at third with one out. Jon Jay grounds to second, and Pedroia throws home to get Yadier Molina for the second out. Red Sox catcher Jarrod Saltalamacchia then throws to third to try to get Allen Craig. The ball hits Craig and rolls into foul territory. Craig tries to score and trips over third baseman Will Middlebrooks. Left fielder Daniel Nava's throw beats him home and Saltalamacchia tags him.",
+  "question": "What does umpire Jim Joyce rule?",
+  "options": [
+    "Craig is out. The inning ends and the game goes to extra innings.",
+    "Dead ball. Craig goes back to third.",
+    "Obstruction on Middlebrooks. Craig is safe and scores."
+  ],
+  "answer": 2,
+  "ruling": "Joyce ruled that Middlebrooks obstructed Craig, so Craig was safe and the winning run scored. Joyce made the call before Nava's throw arrived. Boston argued with home plate umpire Dana DeMuth that Craig was out. The Cardinals won 5-4 and led the series 2-1.",
+  "rulebookNote": "The rule book defines obstruction as the act of a fielder who, \"not in possession of the ball and not in the act of fielding the ball, impedes the progress of any runner.\"",
+  "source": "https://www.si.com/2013/10/27/world-series-game-3-obstruction-video-cardinals-red-sox/"
+}

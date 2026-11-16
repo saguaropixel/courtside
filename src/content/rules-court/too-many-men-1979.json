@@ -1,0 +1,17 @@
+{
+  "id": "too-many-men-1979",
+  "sport": "hockey",
+  "year": 1979,
+  "title": "Count the Skaters",
+  "setup": "May 10, 1979, Game 7 of the Prince of Wales Conference final at the Montreal Forum. Boston leads the Canadiens 4-3 with 2:34 left. Linesman John D'Amico notices the Bruins have too many skaters on the ice and tells referee Bob Myers, who had been watching the play, not the Bruins' bench.",
+  "question": "What does Myers do?",
+  "options": [
+    "Waves it off, since the extra skater was not involved in the play.",
+    "Calls a bench minor for too many men on the ice.",
+    "Awards Montreal a penalty shot."
+  ],
+  "answer": 1,
+  "ruling": "Myers called the penalty. Peter McNab served the bench minor. Guy Lafleur tied the game 4-4 with 1:14 left in the third period, and Yvon Lambert won it for Montreal 5-4 at 9:33 of overtime.",
+  "rulebookNote": "The source cites Rule 18, too many men on the ice.",
+  "source": "https://vault.si.com/vault/2014/05/12/three-words-too-many-men"
+}

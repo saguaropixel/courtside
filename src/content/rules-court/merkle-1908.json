@@ -1,0 +1,17 @@
+{
+  "id": "merkle-1908",
+  "sport": "baseball",
+  "year": 1908,
+  "title": "The Base He Never Touched",
+  "setup": "September 23, 1908, at the Polo Grounds. Bottom of the ninth, the Giants and Cubs are tied 1-1 with two outs. Moose McCormick is on third. Al Bridwell singles up the middle and McCormick trots home, apparently winning the game. Fans storm the field. Giants rookie Fred Merkle, who was on first, turns toward the clubhouse without touching second. Cubs second baseman Johnny Evers gets a ball and steps on second.",
+  "question": "What does umpire Hank O'Day rule?",
+  "options": [
+    "The run counts. The Giants win 2-1.",
+    "The game is forfeited to the Cubs because fans were on the field.",
+    "Merkle is out, the run is cancelled and the game is a tie."
+  ],
+  "answer": 2,
+  "ruling": "O'Day called Merkle out, which cancelled the winning run, and declared the game a tie. National League president Harry Pulliam upheld the ruling. The Cubs and Giants finished the season tied for first, so they replayed the game on October 8 at the Polo Grounds. Chicago won and took the pennant.",
+  "rulebookNote": "The source says Merkle never touched second while Evers stepped on it. Treating that as a force out that ended the inning before the run could count is the standard force-play rule, which is from general knowledge, not the source.",
+  "source": "https://www.si.com/more-sports/2008/09/23/merkle"
+}

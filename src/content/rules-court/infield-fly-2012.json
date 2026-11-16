@@ -1,0 +1,17 @@
+{
+  "id": "infield-fly-2012",
+  "sport": "baseball",
+  "year": 2012,
+  "title": "A Pop-Up in Shallow Left",
+  "setup": "The 2012 National League Wild Card game in Atlanta. Eighth inning, one out, with runners on base and the Cardinals ahead. Braves shortstop Andrelton Simmons lifts a fly ball into shallow left field. Cardinals shortstop Pete Kozma calls for it, then backs off, and the ball drops between him and left fielder Matt Holliday.",
+  "question": "What does left-field umpire Sam Holbrook call?",
+  "options": [
+    "A fair ball that drops for a hit.",
+    "Infield fly. Simmons is out.",
+    "No call until the umpires confirm whether Kozma could reach it."
+  ],
+  "answer": 1,
+  "ruling": "Holbrook ruled an infield fly, so Simmons was out. Braves manager Fredi Gonzalez argued that the ball was not catchable with ordinary effort because Kozma had to range so far into the outfield. MLB's Joe Torre rejected the Braves' protest as a judgment call. Fans threw bottles, cups and other objects onto the field, causing a 19-minute delay.",
+  "rulebookNote": "Rule 2.00 defines an infield fly as a fair fly ball that can be caught by an infielder with ordinary effort. It applies with first and second, or first, second and third, occupied before two are out.",
+  "source": "https://www.mlb.com/news/infield-fly-ruling-disrupts-cardinals-braves-wild-card-game/c-39509938"
+}

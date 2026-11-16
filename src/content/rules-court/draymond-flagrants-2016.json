@@ -1,0 +1,17 @@
+{
+  "id": "draymond-flagrants-2016",
+  "sport": "basketball",
+  "year": 2016,
+  "title": "Counting Flagrants",
+  "setup": "2016 NBA Finals. The Warriors win Game 4, 108-97, and lead the series 3-1. In that game Draymond Green strikes LeBron James in the groin after James steps over him. The game officials call no foul. The league office reviews the play before Game 5.",
+  "question": "What does the NBA rule?",
+  "options": [
+    "Flagrant 1, and Green sits out Game 5 on accumulated points.",
+    "A fine only, since the contact was not serious enough to sit him.",
+    "No action, since officials saw no foul."
+  ],
+  "answer": 0,
+  "ruling": "The league classified the contact as a Flagrant Foul 1 because it was unnecessary, and Green was suspended for Game 5. The suspension was not a penalty for that play alone. It came from point accumulation: one point for a Flagrant 1 on Michael Beasley, two for a Flagrant 2 on Steven Adams, and one for the Game 4 play made four points.",
+  "rulebookNote": "Under the NBA's postseason rules, a player who accumulates four flagrant foul points is automatically suspended for one playoff game. VP Kiki VanDeWeghe said the Game 4 play did not warrant a suspension on its own, but the total triggered one.",
+  "source": "https://www.si.com/nba/2016/06/12/draymond-green-suspension-lebron-james-stephen-curry-warriors-cavaliers-game-5"
+}

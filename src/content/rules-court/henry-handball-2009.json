@@ -1,0 +1,17 @@
+{
+  "id": "henry-handball-2009",
+  "sport": "soccer",
+  "year": 2009,
+  "title": "Twice With the Hand",
+  "setup": "November 2009, second leg of the World Cup qualifying play-off between France and Ireland. The match is 1-1 after extra time, which gives France a 2-1 aggregate win. In extra time Thierry Henry handles the ball twice before William Gallas knocks it over the line. Ireland asks FIFA for a replay.",
+  "question": "What does FIFA decide?",
+  "options": [
+    "Replay the match.",
+    "Order a replay and ban Henry for two matches.",
+    "No replay and no punishment for Henry."
+  ],
+  "answer": 2,
+  "ruling": "FIFA said the match cannot be replayed. Its Disciplinary Committee found no legal basis to act, stating that handling the ball cannot be regarded as a serious infringement under article 77a of its Disciplinary Code, so Henry was not punished. France went to the 2010 World Cup in South Africa and Ireland did not.",
+  "rulebookNote": "The source notes that FIFA's rules make referee decisions final. It does not say what the referee saw.",
+  "source": "https://www.fourfourtwo.com/news/fifa-take-no-action-henry"
+}

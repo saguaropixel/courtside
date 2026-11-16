@@ -1,0 +1,17 @@
+{
+  "id": "hurst-goal-1966",
+  "sport": "soccer",
+  "year": 1966,
+  "title": "Did It Cross the Line?",
+  "setup": "1966 World Cup final at Wembley, England against West Germany, 2-2 and into extra time. Eleven minutes in, Geoff Hurst's shot hits the underside of the crossbar and bounces down. England claims a goal and the Germans protest. Swiss referee Gottfried Dienst does not decide straight away.",
+  "question": "What does Dienst do?",
+  "options": [
+    "Waves play on, with no goal.",
+    "Stops play and drops the ball.",
+    "Consults the linesman, then awards the goal."
+  ],
+  "answer": 2,
+  "ruling": "Dienst turned to Soviet linesman Tofik Bakhramov, then pointed to the centre circle to award the goal, making it 3-2. England won 4-2.",
+  "rulebookNote": "The source says the ball bounced over the line \"in the opinion of the officials at least,\" while the Germans insisted it had not crossed. The source does not settle the question.",
+  "source": "https://africa.espn.com/football/story/_/id/37482041/geoff-hurst-hat-trick-england-beat-west-germany-win-world-cup"
+}

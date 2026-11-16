@@ -1,0 +1,17 @@
+{
+  "id": "dez-catch-2015",
+  "sport": "football",
+  "year": 2015,
+  "title": "Dez Caught It",
+  "setup": "January 11, 2015, an NFC divisional playoff at Lambeau Field. The Packers lead the Cowboys 26-21 with 4:42 left, and Dallas faces fourth-and-2. Tony Romo throws deep, and Dez Bryant catches it over cornerback Sam Shields and stretches toward the goal line. It is ruled a catch at the 1-yard line. Packers coach Mike McCarthy challenges, saying the ball hit the ground before Bryant completed the catch.",
+  "question": "What does referee Gene Steratore rule after review?",
+  "options": [
+    "The catch is upheld. Cowboys ball at the 1-yard line.",
+    "Incomplete pass. The Packers take over on downs.",
+    "Fumble. The Packers recover."
+  ],
+  "answer": 1,
+  "ruling": "The call was overturned and the pass ruled incomplete. Steratore said Bryant \"maintained possession but continued to fall and never had another act common to the game.\" Green Bay won 26-21.",
+  "rulebookNote": "Under the rule at the time, a player going to the ground had to keep control of the ball throughout the process of contacting the ground.",
+  "source": "https://en.wikipedia.org/wiki/Dez_Caught_It"
+}

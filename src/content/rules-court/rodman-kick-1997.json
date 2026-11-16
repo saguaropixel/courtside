@@ -1,0 +1,17 @@
+{
+  "id": "rodman-kick-1997",
+  "sport": "basketball",
+  "year": 1997,
+  "title": "The Courtside Kick",
+  "setup": "January 1997. During the Bulls' 112-102 win over the Timberwolves, Chicago forward Dennis Rodman kicks a courtside cameraman. Commissioner David Stern announces a penalty on January 17.",
+  "question": "What is Rodman's penalty?",
+  "options": [
+    "A fine, with no games missed.",
+    "A suspension without pay for at least 11 games and a $25,000 fine.",
+    "A suspension for the rest of the season."
+  ],
+  "answer": 1,
+  "ruling": "Stern suspended Rodman without pay for at least 11 games and fined him $25,000. Rodman had to meet with an NBA-designated counselor, and a decision on his return would come after the All-Star break. Stern said the suspension would continue until Rodman could give meaningful assurances that he would conduct himself within acceptable standards, including not putting others at physical risk.",
+  "rulebookNote": "The source gives the 11 games as a minimum, tied to conditions for reinstatement, not a fixed term.",
+  "source": "https://www.deseret.com/1997/1/17/19289862/nba-gives-kick-happy-rodman-11-game-boot"
+}

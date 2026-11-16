@@ -1,0 +1,17 @@
+{
+  "id": "denkinger-1985",
+  "sport": "baseball",
+  "year": 1985,
+  "title": "Bottom of the Ninth, Game 6",
+  "setup": "Bottom of the ninth in Game 6 of the 1985 World Series. The Cardinals lead the Royals 1-0. Kansas City pinch hitter Jorge Orta squibs a grounder toward first base, and the play at the bag is close.",
+  "question": "What does first base umpire Don Denkinger call?",
+  "options": [
+    "Out. The Cardinals keep the 1-0 lead.",
+    "Nothing yet. The umpires huddle to confirm the call.",
+    "Safe. Orta is on first."
+  ],
+  "answer": 2,
+  "ruling": "Denkinger called Orta safe, saying he looked down and saw Orta's foot on the bag. The article describing the play says Orta was clearly out by a half-step. The Royals scored twice in the inning to win 2-1, and they won Game 7 11-0.",
+  "rulebookNote": "The source says Denkinger later wished the replay rule had been in place that night so the call could have been made correctly. No replay review was used.",
+  "source": "https://time.com/3507133/don-denkinger-royals-cardinals-world-series"
+}

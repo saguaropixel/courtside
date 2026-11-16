@@ -1,0 +1,17 @@
+{
+  "id": "immaculate-reception-1972",
+  "sport": "football",
+  "year": 1972,
+  "title": "Fourth-and-10, 22 Seconds Left",
+  "setup": "1972 AFC divisional playoff at Three Rivers Stadium. The Raiders lead the Steelers 7-6 with 22 seconds left. Pittsburgh faces fourth-and-10 from its own 40. Terry Bradshaw is flushed to the right and throws toward John Fuqua near the Raiders' 35. Fuqua, Raiders safety Jack Tatum and the ball arrive together, and the ball pops loose. Rookie Franco Harris catches it at his shoe tops and runs into the end zone. At the time, offensive players could not touch the ball consecutively, and Oakland argues Fuqua batted it to Harris.",
+  "question": "What do the officials rule?",
+  "options": [
+    "Touchdown. The Steelers lead.",
+    "Incomplete pass. The Raiders win.",
+    "The ball is spotted where Harris caught it, with the clock stopped."
+  ],
+  "answer": 0,
+  "ruling": "Referee Fred Swearingen, after consulting NFL supervisor of officials Art McNally, ruled it a touchdown. Pittsburgh made the extra point to lead 13-7 with five seconds left, and that was the final score.",
+  "rulebookNote": "The rule at the time barred two offensive players from touching a pass consecutively. Oakland argued Fuqua had batted the ball to Harris. If Tatum had been the one to bat it, the play would have been a legal touchdown. The source gives no exact game date.",
+  "source": "https://www.profootballhof.com/football-history/the-immaculate-reception/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "saints-no-call-2019",
+  "sport": "football",
+  "year": 2019,
+  "title": "Third-and-10, Tied Game",
+  "setup": "January 20, 2019, NFC Championship in New Orleans. The Saints and Rams are tied 20-20 with 1:49 left. New Orleans faces third-and-10 at the Rams' 13. Rams cornerback Nickell Robey-Coleman sprints across the formation to cover wide-open receiver Tommylee Lewis. The ball arrives late, and Robey-Coleman hits Lewis before it gets there.",
+  "question": "What do the officials do?",
+  "options": [
+    "Flag defensive pass interference and give the Saints a first down.",
+    "Flag defensive holding.",
+    "Throw no flag. Play continues."
+  ],
+  "answer": 2,
+  "ruling": "No flag was thrown. The Saints settled for a field goal, the Rams forced overtime and won there. The NFL then made pass interference calls and non-calls subject to replay review, but it abandoned the expanded review after the 2019 season.",
+  "rulebookNote": "The source names referee Bill Vinovich among those involved and describes the league's later replay-review change and its end after one season.",
+  "source": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-saints-controversial-nfc-championship-happened-five-years-ago-today"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hochuli-2008",
+  "sport": "football",
+  "year": 2008,
+  "title": "The Slipped Ball",
+  "setup": "Week 2 of the 2008 season in Denver. In the final minute, the Chargers lead the Broncos 38-31 and Denver is deep in San Diego territory. Jay Cutler drops back to pass, the ball slips out of his hand, and a San Diego player recovers it.",
+  "question": "What does referee Ed Hochuli rule?",
+  "options": [
+    "Incomplete pass. Denver keeps the ball.",
+    "Fumble. San Diego gets the ball and wins.",
+    "The play is blown dead with a replay of the down."
+  ],
+  "answer": 0,
+  "ruling": "Hochuli ruled an incomplete pass. Instant replay showed it should have been a fumble, and Hochuli told Chargers coach Norv Turner he had made the wrong call. Because the whistle had blown on the pass ruling, the ball could not go to San Diego, and Denver kept possession. The Broncos scored, converted the two-point try and won 39-38.",
+  "rulebookNote": "NFL supervisor of officials Mike Pereira said the league would look at whether rules should let a recovered fumble be awarded to the defense on the field even if the ball can't be advanced. The page gives no exact game date.",
+  "source": "https://www.nfl.com/news/hochuli-devastated-following-blown-call-09000d5d80aeabaf"
+}
